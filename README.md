@@ -17,7 +17,9 @@ Project is created with:
 ## Setup
 Before running the project, please download the attached font folder and ensure that it is installed by going into the project's tab and going into "Tools" at the very top and then select "Fonts". 
 
-If the program still fails the run and the prompt below appears 
+If the program still fails the run and the prompt below appears (If image fails to load, below is the alt text)
+
+<img width="627" height="23" alt="Screen Shot 2025-11-03 at 9 49 50 pm" src="https://github.com/user-attachments/assets/9222924c-0026-4a2b-9c11-be81c0a9efbc" />
 ```
 Could not load font Futura-Bold-48.vlw. Make sure that the font has been copied to the data folder of your sketch
 ```
