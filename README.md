@@ -37,6 +37,8 @@ Some of the features in are the project are:
 * Mouse functionalities
 * Pattern repetition
 
+https://github.com/user-attachments/assets/0bc0f4c6-25d2-45a0-b7d4-6585d6d952f8
+
 ## Project status
 The end project is currently finished with no future versions or additions envisioned.
 
